@@ -4,7 +4,7 @@ kanban-plugin: board
 
 ---
 
-## 
+## TO-do
 
 - [ ] [[CS10 Time line of Computing History]]
 
@@ -15,6 +15,7 @@ kanban-plugin: board
 
 ## Finished
 
+**Complete**
 
 
 

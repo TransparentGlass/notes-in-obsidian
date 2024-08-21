@@ -17,8 +17,11 @@
 
 ### Computer
 - Hardware
-	- CPU
-	- Memory
-	- Storage 
-	- input
-	- Output devices
+	- Components
+		- CPU
+		- Memory
+		- Storage 
+		- Input devices
+		- Output devices
+- Software
+	- Computerized instruction
