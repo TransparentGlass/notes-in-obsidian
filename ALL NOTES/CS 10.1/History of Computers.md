@@ -41,4 +41,7 @@
 	- Smaller size, supports higher level lang., faster, less heat
 
 ### 4th Gen Comp
-- 
+- VLSI (Very large scale integrated circuits)
+	- Cheap, reliable easily available, faster, less heat.
+
+## Activity
