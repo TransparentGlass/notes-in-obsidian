@@ -24,3 +24,21 @@
 	- Difference Engine - 1822
 		- Charles Babbage
 		- for astronomical cal. made for the royal society
+	- Analytical Engine - 1834
+		- For gen. use; the first computer.
+		- Charles Babbage
+
+### First Gen Computers
+- Vacuum tube tech.
+	- For basic component for memory and circuitry for CPU
+
+### Second Gen Computers
+- Transistors
+	- Smaller, reliable, less heat
+	- supported machne and assembly languages
+### 3rd gen comp
+- Integrated circuits
+	- Smaller size, supports higher level lang., faster, less heat
+
+### 4th Gen Comp
+- 
