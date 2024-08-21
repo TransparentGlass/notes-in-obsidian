@@ -7,6 +7,7 @@ kanban-plugin: board
 ## TO-do
 
 - [ ] [[CS10 Time line of Computing History]]
+- [ ] [[CS10 act. Commonly use devices]]
 
 
 ## Doing
