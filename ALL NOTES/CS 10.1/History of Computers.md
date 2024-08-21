@@ -1,0 +1,13 @@
+- Abacus
+	- one of the earliest calculators
+
+- Manual Calculator
+	- Napier's logarithm
+		- John napier
+	- Gunter's Scale - 1629
+		- Edmund Gunter, English math
+		- Coined the terms cosine & contangent
+		- built a device for navigational calculations; the scale is for navigation
+	- Slide rule -1632
+		- William Oughtred, english clergy and mathematician
+		- Came from Napier's ideas
