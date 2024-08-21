@@ -3,7 +3,7 @@
 
 - Manual Calculator
 	- Napier's logarithm
-		- John napier
+		- John Napier
 	- Gunter's Scale - 1629
 		- Edmund Gunter, English math
 		- Coined the terms cosine & contangent
@@ -11,3 +11,16 @@
 	- Slide rule -1632
 		- William Oughtred, english clergy and mathematician
 		- Came from Napier's ideas
+- Mechanical Cal.
+	- Shickard's cal. - 1623
+		- first adding machine
+	- Pascaline - 1642
+		- arithmetic cal.; used by a lot of people
+		- made to help with taxes w/ and for his father
+	- Leibniz cal. - 1673
+		- 4 functions 
+	- De Colmar's Arithmometer -1820
+		- made to make math easier in insurance 
+	- Difference Engine - 1822
+		- Charles Babbage
+		- for astronomical cal. made for the royal society
